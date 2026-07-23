@@ -1,0 +1,6 @@
+{
+  "name": "Find My Phone",
+  "description": "Locate misplaced phones on the same Wi-Fi network with loud ringing, flashlight, vibration, custom alerts, local NSD discovery, and fun Voxel Toy Box finder visual animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
